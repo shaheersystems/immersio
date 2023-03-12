@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400&display=swap");
+body h1 {
+  font-family: "Outfit", sans-serif;
+}
+body {
+  overflow-x: hidden;
+}
+body p,
+a,
+span,
+button {
+  font-family: "Poppins", sans-serif;
+}
+.nav-bg {
+  background-image: url("assets/nav-bg.png");
+  background-position: center;
+  background-repeat: none;
+}
+.section1-bg {
+  background-image: url("assets/section-1-bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gradient-bg {
+  background-image: url("assets/visual.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.glasses-bg {
+  background-image: url("assets/glasses.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.camera-bg {
+  background-image: url("assets/camera.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.headset-bg {
+  background-image: url("assets/headset.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.controller-bg {
+  background-image: url("assets/controller.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.human-bg {
+  background-image: url("assets/human.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.robot-bg {
+  background-image: url("assets/robot.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.blockchain-bg {
+  background-image: url("assets/blockchain.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.visual2-bg {
+  background-image: url("assets/visual2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.visual3-bg {
+  background-image: url("assets/visual3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cutoff-text {
+  --max-lines: 3;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: var(--max-lines);
+}
+.tablet-bg {
+  background-image: url("assets/tablet.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card1-bg {
+  background-image: url("assets/card1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card2-bg {
+  background-image: url("assets/card2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card3-bg {
+  background-image: url("assets/card3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-woman {
+  background-image: url("assets/bg-woman.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
